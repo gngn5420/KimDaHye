@@ -34,5 +34,5 @@ public class SitterBoardDTO {
   private int readCount;
   private LocalDateTime regDate;
   private LocalDateTime updateDate;
-  private List<SitterFile> fileDTOs;
+  private List<SitterFile> freefileDTOs;
 }
